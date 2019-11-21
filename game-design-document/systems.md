@@ -7,9 +7,19 @@ description: >-
 
 # Systems
 
-
-
  Some examples of contexts and their mechanics:
 
-* Combat: choose action based on available mechanics
+* Combat: choose action based on available mechanics \(attack, defend, etc\)
+* Exploration: 
+* Combat: choose action based on available mechanics \(attack, defend, etc\)
+* Exploration: 
+
+### Some examples of systems
+
+### Some examples of systems
+
+* Skill management
+  * 
+* Skill management
+  * 
 
