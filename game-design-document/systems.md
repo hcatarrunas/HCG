@@ -11,8 +11,6 @@ description: >-
 
 * Combat: choose action based on available mechanics \(attack, defend, etc\)
 * Exploration: 
-* Combat: choose action based on available mechanics \(attack, defend, etc\)
-* Exploration: 
 
 ### Some examples of systems
 
