@@ -14,9 +14,9 @@ description: >-
 * Exposition: Audio dialog, Cinematic, Text dialog, etc
 * Management: Player management \(equipment, level, skills, etc\), Resource management \(base buildings, resource gathering/usage, defense planning, etc\)
 
-### Some examples of systems
+## Some examples of systems
 
-#### Management of skills \(video and Construct 3 editable\)
+### Management of skills \(video and Construct 3 editable\)
 
 * Value pool \(Points\)
 * Button controls

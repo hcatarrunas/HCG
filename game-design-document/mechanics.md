@@ -1,6 +1,6 @@
 ---
 description: >-
-  Usually a mechanic will be a simple execution that the player can do in a
+  Usually a mechanic will be the simple executions that the player can do in the
   game.
 ---
 

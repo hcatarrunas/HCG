@@ -13,7 +13,7 @@ In this cases you can:
 * Ask the team for similar inspirations and consider what is given.
 * Check if what inspired you still gives you a strong reaction, or if it has lost some of it's impact. Maybe it was a trend that has faded out, or the market has become saturated with similar games.
 
-### What inspired to start making your game?
+## What inspired to start making your game?
 
 * Making a personal version of something that exists on the market?
 * Remaking an old game for current tech/tendencies?
@@ -21,7 +21,7 @@ In this cases you can:
 * Seeing or hearing something that inspired you?
 * Seeing or hearing something that isn't working and you can make better?
 
-### How to find additional inspiration?
+## How to find additional inspiration?
 
 * **Stop work on the game** Choose to give yourself a vacation where you wont work in the game. \(ex. an extended weekend Friday, Saturday, Sunday\) Most times you will find some random thoughts come to you, just record them on your phone and let them go. After the specified time review your thoughts, organize them and compare them to what your doing. 
 * **Explain it to someone else:** Ask someone not involved with the project to listen to you explain the game. Usually the thought process of explaining the details will provide some insights, and the feedback the other person gives can point out new ideas or just point something that needs to be clearer. 

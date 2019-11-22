@@ -1,4 +1,4 @@
-# Leadership
+# Leadership \*
 
 The development of a game is a collaborative process where leaders should not afraid to say they don't have all the answers and are willing to hear the answers of other team members to fill the blanks.
 
@@ -8,7 +8,7 @@ A leader should be the person whose work focuses on directing the team efforts b
 
 The leader should be able to identify and fill any gaps that appear between the "original vision", the "vision in progress" and "final needed vision" of the game. To do this he should try to regularly hear the feedback from everyone involved with the game \(ex. clients, developers, testers\), and formalize it in discussions to identify needed changes and create work tasks to handle them.
 
-### Links
+## Links
 
 {% embed url="https://www.youtube.com/watch?v=L4-KoapvUcs" %}
 

@@ -2,9 +2,12 @@
 description: Some points that should be considered when review the company activities.
 ---
 
-# Constraints and opportunities
+# Constraints and opportunities \*
 
-Engine constraints
+## Attention constraints
+
+* 
+## Engine constraints
 
 * **What platforms does the engine have to support?**
   * Console
@@ -31,5 +34,10 @@ Engine constraints
     * Tracking of movement
     * Voice
   * Screen orientations/sizes
-  * 
+  * Augmented reality / Virtual reality
+
+## Time constraints
+
+* 
+
 

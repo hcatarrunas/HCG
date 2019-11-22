@@ -25,13 +25,13 @@
 * [Levels](game-design-document/levels.md)
 * [Mechanics \*](game-design-document/mechanics.md)
 * [Systems \*](game-design-document/systems.md)
-* [UX](game-design-document/ux.md)
+* [UX \*](game-design-document/ux.md)
 * [Constraints and opportunities](game-design-document/constraints.md)
 
 ## Script Design Document <a id="mechanics"></a>
 
 * [Programming guide](mechanics/untitled.md)
-* [Constraints and opportunities](mechanics/constraints.md)
+* [Constraints and opportunities \*](mechanics/constraints.md)
 
 ## Ui Design Document <a id="planning"></a>
 
@@ -57,7 +57,7 @@
 
 ## Team Plan Document
 
-* [Leadership](team-plan-document/leadership.md)
+* [Leadership \*](team-plan-document/leadership.md)
 * [Team members](team-plan-document/team-members.md)
 * [Time breakdown](team-plan-document/time-breakdown.md)
 * [Work breakdown](team-plan-document/work-breakdown.md)
@@ -72,6 +72,6 @@
 * [Product management](company-plan-document/product-management.md)
 * [Project management](company-plan-document/project-management.md)
 * [Structure](company-plan-document/structure.md)
-* [Vision](company-plan-document/vision.md)
+* [Vision \*](company-plan-document/vision.md)
 * [Constraints and opportunities](company-plan-document/constraints.md)
 

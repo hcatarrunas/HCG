@@ -1,4 +1,2 @@
 # Funding
 
-F
-

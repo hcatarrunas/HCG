@@ -4,7 +4,7 @@ description: Some points that should be considered when review the company activ
 
 # Constraints and opportunities
 
-### Characters
+## Characters
 
 * **Does this product respect how the market perceives the characters?**
   * Are they acting according to the expected:
@@ -15,7 +15,7 @@ description: Some points that should be considered when review the company activ
   * Are they to infantile? to dull?
   * Has a competitor launched something similar that currently occupies the limelight?
 
-### Franchise
+## Franchise
 
 * **How does the product fit in the overall franchise?**
   * Requires knowledge of previous products?

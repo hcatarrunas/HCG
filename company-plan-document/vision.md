@@ -5,7 +5,7 @@ description: >-
   to fulfill the vision.
 ---
 
-# Vision
+# Vision \*
 
 ## Defining company vision
 

@@ -4,7 +4,7 @@ description: Some points that should be considered when review the company activ
 
 # Constraints and opportunities
 
-### Is someone paying for this project?
+## Is someone paying for this project?
 
 * **What do they need?**
 
@@ -26,7 +26,7 @@ description: Some points that should be considered when review the company activ
     * Usage of hardware/software that could be discontinued?
     * Trend that could disappear by launch date?
 
-### Is there something that can be improved?
+## Is there something that can be improved?
 
 * Are the needs of the project still being answered in the best way?
   * Has the market changed because of a competitor product?
