@@ -4,7 +4,7 @@ description: >-
   will change its focus or mindset.
 ---
 
-# Gameplay contexts
+# Gameplay contexts \*
 
  Some examples of common game contexts:
 

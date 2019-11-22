@@ -2,9 +2,11 @@
 description: What made you decide to make your game?
 ---
 
-# Inception
+# Inception \*
 
-At the end of the day when your tired and uninspired, when you ask "why i am doing this", are you thinking about making a game for:
+### Why make this game?
+
+At the end of the day when your tired and uninspired, when you ask "why i am doing this" what is it that made you start creating the game?
 
 * **Personal use?**
 
@@ -30,4 +32,11 @@ It's also important to consider that things can sometimes change outside of your
 Maybe a client asked for a platformer for their company mascot and now wants a RPG illustrating the how green the company is. Or the budget to pay for the game gets cut and it becomes impossible to deliver what is being asked.
 
 In this cases your have to calmly consider why you started your game, what you hoped to achieve, how things are changing and if it's still worth it to continue or if you should just stop the project.
+
+### How much work is expected to go in this game?
+
+* Solo development
+* Small team 
+* Game Studio side project
+* Game Studio main project
 

@@ -2,7 +2,7 @@
 description: What helped you to determine what the game will be about?
 ---
 
-# Inspiration
+# Inspiration \*
 
 It's important to record what inspiration led to the decision to develop the project.  
 Oftentimes after some work you may decide something is not working but be unable to identify what it is.  

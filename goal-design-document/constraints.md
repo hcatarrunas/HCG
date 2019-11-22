@@ -2,7 +2,7 @@
 description: Some points that should be considered when reviewing the company activities.
 ---
 
-# Constraints and opportunities
+# Constraints and opportunities \*
 
 What were you considering for your game initially?   
 How would those points help to build a game the market wants?  

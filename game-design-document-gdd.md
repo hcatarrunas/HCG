@@ -4,7 +4,7 @@ description: >-
   starting a game?
 ---
 
-# Game Design Document \(GDD\)
+# Game Design Document \(GDD\) \*
 
 The term Game Design Document \(GDD\) is commonly and loosely applied to any documentation used to align all the work involved in the creation of the game.
 

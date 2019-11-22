@@ -4,7 +4,7 @@ description: >-
   methods to help on game development.
 ---
 
-# Welcome
+# Welcome \*
 
 Although you can easily find lots of information about game creation dispersed in the internet, it is hoped that this website will provide a hub of this information, being a "Game Design Document" \(GDD\) where everyone can read some information about each of the aspects that can influence game creation.
 

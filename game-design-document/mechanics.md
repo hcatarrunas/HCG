@@ -4,7 +4,7 @@ description: >-
   game.
 ---
 
-# Mechanics
+# Mechanics \*
 
  Some examples of contexts and their usual mechanics:
 

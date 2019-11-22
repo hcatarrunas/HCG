@@ -1,30 +1,30 @@
 # Table of contents
 
-* [Welcome](README.md)
-* [Game Design Document \(GDD\)](game-design-document-gdd.md)
+* [Welcome \*](README.md)
+* [Game Design Document \(GDD\) \*](game-design-document-gdd.md)
 
 ## Goal Design Document
 
 * [Introduction](goal-design-document/introduction.md)
 * [Goals, Objectives, Outcomes](goal-design-document/goals-objectives-outcomes.md)
-* [Inception](goal-design-document/title-group-1.md)
-* [Inspiration](goal-design-document/inspiration.md)
-* [Constraints and opportunities](goal-design-document/constraints.md)
+* [Inception \*](goal-design-document/title-group-1.md)
+* [Inspiration \*](goal-design-document/inspiration.md)
+* [Constraints and opportunities \*](goal-design-document/constraints.md)
 
 ## Art Design Document
 
-* [Introduction](art-design-document/introduction.md)
+* [Introduction \*](art-design-document/introduction.md)
 * [Juice](art-design-document/juice.md)
 * [Mood](art-design-document/mood.md)
 * [Constraints and opportunities](art-design-document/constraints.md)
 
 ## Game Design Document
 
-* [Introduction](game-design-document/introduction.md)
-* [Gameplay contexts](game-design-document/gameplay.md)
+* [Introduction \*](game-design-document/introduction.md)
+* [Gameplay contexts \*](game-design-document/gameplay.md)
 * [Levels](game-design-document/levels.md)
-* [Mechanics](game-design-document/mechanics.md)
-* [Systems](game-design-document/systems.md)
+* [Mechanics \*](game-design-document/mechanics.md)
+* [Systems \*](game-design-document/systems.md)
 * [UX](game-design-document/ux.md)
 * [Constraints and opportunities](game-design-document/constraints.md)
 

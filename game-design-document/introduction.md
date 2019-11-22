@@ -2,7 +2,7 @@
 description: What is Game Design
 ---
 
-# Introduction
+# Introduction \*
 
 
 

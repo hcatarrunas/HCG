@@ -2,7 +2,7 @@
 description: What is Art Design
 ---
 
-# Introduction
+# Introduction \*
 
 ### Links
 
