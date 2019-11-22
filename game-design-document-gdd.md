@@ -8,7 +8,9 @@ description: >-
 
 The term Game Design Document \(GDD\) is commonly and loosely applied to any documentation used to align all the work involved in the creation of the game.
 
-The GDD should always be created before starting development.
+The GDD should always be created before starting development.  
+If you have a simple game being made solo or by a small team that communicates every day then you can have a small GDD.  
+As the size of a game increases so should also it's GDD become more in depth. This will help to make sure everyone involved with the game will have the same goals and objectives while working in the game.
 
 * It should provide a starting point to explain the game idea to yourself, to a team or to a publisher/partner.
 * It is a central reference point that should provide the information needed by everyone involved with the game, in such a way  as to bring confidence that they knows how their work is contributing to reach the expected final product. 
@@ -66,7 +68,13 @@ Usually a GDD is used in one of two ways:
 
 ## Links:
 
+{% embed url="https://www.youtube.com/watch?v=1\_DBsrJGiVY" %}
+
+{% embed url="https://github.com/android272/Game-Design-Document-Template/blob/master/Game%20Design%20Document%20Template.md" %}
+
 {% embed url="https://www.gamasutra.com/view/feature/3384/the\_anatomy\_of\_a\_design\_document\_.php" %}
+
+{% embed url="https://www.youtube.com/watch?v=q96lz725gIw" %}
 
 
 

@@ -32,3 +32,9 @@ This doesn't mean the game has to always keep the same game context in a session
 * Exploration » To combat \(ex. Mass effect going from ship to mission\)
 * Exploration » To combat \(ex. Heroes might magic from map to combat\)
 
+## Links
+
+{% embed url="https://www.youtube.com/watch?v=XdPvFnC3dyU" %}
+
+
+

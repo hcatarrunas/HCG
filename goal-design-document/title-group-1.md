@@ -62,3 +62,9 @@ Before starting the development of the game it's a good practice to answer some 
   * What objectives should the game consider? \(none set, promote/respect company policy/image, reach \)
   * What objectives should the game surpass to be considered a success? \(reach % target audiences/sales/return\)
 
+## Links
+
+{% embed url="https://www.youtube.com/watch?v=fGabuPymKzc" %}
+
+
+

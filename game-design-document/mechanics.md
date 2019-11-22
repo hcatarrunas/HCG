@@ -13,3 +13,11 @@ description: >-
 * Player progress: Experience, Level up, Load, Save 
 * Resource: Buy, Mine, Sell, Upgrade,
 
+## Links
+
+{% embed url="https://uxdesign.cc/letting-go-of-the-flows-product-inspiration-from-the-game-industry-2d5ff7426720" %}
+
+{% embed url="https://www.youtube.com/watch?v=npRBVRYevlU" %}
+
+
+

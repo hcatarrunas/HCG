@@ -14,6 +14,10 @@ To identify this points the UX designer should have good interaction with users 
 
 {% embed url="https://medium.com/swlh/why-youve-got-ui-and-ux-all-mixed-up-7dd73a16eea7" caption="From a USER’s perspective the UX is the intangible feelings associated with using the game. " %}
 
+{% embed url="https://www.youtube.com/watch?v=mEkQ2zPT5xU" %}
+
+
+
 
 
 

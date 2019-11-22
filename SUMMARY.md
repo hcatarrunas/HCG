@@ -6,9 +6,10 @@
 ## Goal Design Document
 
 * [Introduction](goal-design-document/introduction.md)
-* [Goals, Objectives, Outcomes](goal-design-document/goals-objectives-outcomes.md)
 * [Inception \*](goal-design-document/title-group-1.md)
 * [Inspiration \*](goal-design-document/inspiration.md)
+* [Goals, Objectives, Outcomes](goal-design-document/goals-objectives-outcomes.md)
+* [Minimum viable game](goal-design-document/minimum-viable-game.md)
 * [Constraints and opportunities \*](goal-design-document/constraints.md)
 
 ## Art Design Document

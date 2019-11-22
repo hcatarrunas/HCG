@@ -38,3 +38,9 @@ In this cases you can:
   * Make a deck of the mechanics used and try to find new combinations \(and then create a game with them\). 
 * **List of gaming tropes:**  What are the most common in your game type? How can they be avoided? Haw can you use them to surprise the gamer?
 
+## Links
+
+{% embed url="https://www.youtube.com/watch?v=wVpRbYwIO9k" %}
+
+
+
