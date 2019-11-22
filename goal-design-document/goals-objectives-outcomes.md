@@ -7,11 +7,13 @@ description: >-
 
 # Goals, Objectives, Outcomes
 
-## Game goals
+## Goals
 
 Are you hoping to make a game that your friends will love, or a game that will be universally praised by gaming communities?
 
+## Objectives
 
+## Outcomes
 
 ## Links
 
