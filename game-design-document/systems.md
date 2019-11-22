@@ -22,9 +22,7 @@ description: >-
 * Button controls
 * Graphic animations \(Progress arrows, Skill graphics\)
 
-{% embed url="https://youtu.be/liN25m3wVyA" %}
-
-{% embed url="https://github.com/hcatarrunas/HCG/blob/master/ConstructFiles/Skilltree.c3p" %}
+{% embed url="https://youtu.be/liN25m3wVyA" caption="https://github.com/hcatarrunas/HCG/blob/master/ConstructFiles/Skilltree.c3p" %}
 
 
 

@@ -4,7 +4,7 @@ description: What made you decide to make your game?
 
 # Inception \*
 
-### Why make this game?
+## Why make this game?
 
 At the end of the day when your tired and uninspired, when you ask "why i am doing this" what is it that made you start creating the game?
 
@@ -33,10 +33,32 @@ Maybe a client asked for a platformer for their company mascot and now wants a R
 
 In this cases your have to calmly consider why you started your game, what you hoped to achieve, how things are changing and if it's still worth it to continue or if you should just stop the project.
 
-### How much work is expected to go in this game?
+## What kind of work is expected to go in this game?
 
-* Solo development
-* Small team 
-* Game Studio side project
-* Game Studio main project
+Before starting the development of the game it's a good practice to answer some basic questions.
+
+* **Solo development:**
+
+  * What do you consider are your strong points? \(ex. coding, design, storytelling, etc\)
+  * How does the game give options to showcase your strong points?
+
+* **Small team:**
+
+  * How many people are involved? \(a group of local friends, an online collaboration, a work for fire, etc\)
+  * How is the budget of game controlled? \(no control, one person control, everyone sets goals, etc\)
+  * How is the game content determined? \(designated person\(s\), individual showcase, mvp player testing, team meetings, etc\)
+
+* **Game Studio side project:**
+
+  * Who approves this kind of game? \(doesn't need approval, minimal approval from team leader, etc\)
+  * What time is available for the game? \(free time, set amount time daily/weekly/monthly, etc\)
+  * What resources are to be available to the game? \(any available, workspace available, workspace requested in previous X hours, etc\)
+  * What objectives should the game consider? \(none set, promote/respect company policy/image, etc \)
+
+* **Game Studio main project:**
+  * Who is responsible for the GDD? \(Internal client, Outside Client, Project manager, Team leader, etc\)
+  * What time is available for the game? \(set amount time daily/weekly/monthly, fixed release date, after X milestone acheived, etc\)
+  * What resources are to be available to the game? \(workspace available during X, workspace requested in previous X hours, etc\)
+  * What objectives should the game consider? \(none set, promote/respect company policy/image, reach \)
+  * What objectives should the game surpass to be considered a success? \(reach % target audiences/sales/return\)
 

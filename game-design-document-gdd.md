@@ -22,7 +22,30 @@ The GDD should always be created before starting development.
 
 ## GDD contents
 
-Although a GDD could be as simple as a one page word document describing the game 
+Although a GDD could initially be as simple as a one page word document describing the game, it should be developed and maintained so that it reflects all that is expected of the game in terms of player interactions, team needs, marketing needs and information needs.
+
+* **Player interactions:**
+
+  * Expected main game context\(s\) of the players? \(shooting, management, exploration, interaction with other player\)
+  * Other game contexts the players can do in the game?
+
+* **Team needs:**
+
+  * Expected platforms and devices the game will be played? \(desktop, mobile, console, web, etc\)
+  * Expected team members available for each kind of development? \(Activity, Number, Time, etc\)
+  * Expected availability of space and resources for each kind of development? \(equipment's, Time, workplace, etc\)
+  * Special event dates? \(game fairs, holidays, alpha/beta testings, etc\)
+
+* **Marketing needs**:
+
+  * Expected communities for the marketing actions? \(ex. Discord channel, Kickstarter page, Twitch channel, Youtube channel, etc\)
+  * Expected team members available for each kind of action? \(Activity, Number, Time, etc\)
+  * Expected availability of space and resources for each kind of action? \(equipment's, Time, workplace, etc\)
+  * Special event dates? \(print/web publications, game fairs, progress notifications\)
+
+* **Information needs:**
+  * Who are the people responsible for each part of the game? \(Design, Development, Marketing, Partners, etc\)
+  * What is the information needed by each 
 
 ## GDD recommended usage
 
@@ -41,9 +64,9 @@ Usually a GDD is used in one of two ways:
   * Feedback is sent to one element of the team that reviews it and chooses if it is to be updated in the GDD.
   * When the GDD is updated the team is informed of the changes, and makes the necessary changes in the game production.
 
-### Links
+## Links:
 
-#### Text articles:
+{% embed url="https://www.gamasutra.com/view/feature/3384/the\_anatomy\_of\_a\_design\_document\_.php" %}
 
-* [The Anatomy of a Design Document](https://www.gamasutra.com/view/feature/3384/the_anatomy_of_a_design_document_.php) \(gamasutra text\)
+
 

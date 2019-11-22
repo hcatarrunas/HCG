@@ -18,7 +18,7 @@
 * [Mood](art-design-document/mood.md)
 * [Constraints and opportunities](art-design-document/constraints.md)
 
-## Game Design Document
+## Gameplay Design Document <a id="game-design-document"></a>
 
 * [Introduction \*](game-design-document/introduction.md)
 * [Gameplay contexts \*](game-design-document/gameplay.md)
