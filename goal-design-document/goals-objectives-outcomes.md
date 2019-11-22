@@ -7,6 +7,12 @@ description: >-
 
 # Goals, Objectives, Outcomes
 
+## Game goals
+
+Are you hoping to make a game that your friends will love, or a game that will be universally praised by gaming communities?
+
+
+
 ## Links
 
 {% embed url="https://www.gamasutra.com/blogs/DanFelder/20150413/240853/Design\_101\_Design\_Goals.php" caption="... what experience we want to provide and then making design choices that will provide that experience. " %}
