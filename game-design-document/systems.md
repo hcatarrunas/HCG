@@ -14,10 +14,11 @@ description: >-
 
 ### Some examples of systems
 
-### Some examples of systems
+#### Skill management:
 
-* Skill management
-  * 
-* Skill management
-  * 
+{% embed url="https://youtu.be/liN25m3wVyA" %}
+
+{% embed url="https://github.com/hcatarrunas/HCG/blob/master/ConstructFiles/Skilltree.c3p" %}
+
+
 
