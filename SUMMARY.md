@@ -46,7 +46,7 @@
 * [Franchises](world-design-document/franchises.md)
 * [World](world-design-document/world.md)
 * [Story](world-design-document/story.md)
-* [Constraints and opportunities](world-design-document/constraints.md)
+* [Constraints and opportunities \*](world-design-document/constraints.md)
 
 ## Market Plan Document <a id="market-design-document"></a>
 
