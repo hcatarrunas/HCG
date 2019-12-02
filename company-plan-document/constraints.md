@@ -34,3 +34,7 @@ description: Some points that should be considered when review the company activ
   * Has a more convenient way to answer the user needs appeared?
   * Has something else eliminated the need for the product?
 
+### Legal
+
+RGPD
+

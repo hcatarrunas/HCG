@@ -8,6 +8,20 @@ description: >-
 
  Some examples of common game contexts:
 
+* Alternative / Random - pieces / solutions
+* Dificulty level
+* Journey / Map system
+* Diary / Level selector
+* Failing /Fairness
+* Level Up
+* Passage of time
+* Power-ups
+* Time
+* Shuffle 
+  * mechanic where liquid pours into the grid causing gems to float upwards rather than fall down \(Candy Crush Soda Saga\)
+* Things that can / can't be missed
+* Turns
+* Winning
 * Combat: 
   * Turn-based
   * Real-time
@@ -19,7 +33,14 @@ description: >-
   * Screens about information \(ex. character screen\),
   * Screens about choice \(ex. item store\)
 
+### Character
+
 ## The importance of respecting \(expected\) game context
+
+* Classes
+* Attack
+* Defence
+* Health
 
 A game should always consider what the player is expecting to be doing in the next interaction.  
 If a player is having fun while combating some enemies then the game designer should take seriously any kind of change in the game context that could break the player immersion. \(ex. stop combat for a dialogue exchange\)

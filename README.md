@@ -26,7 +26,7 @@ On the sidebar you'll find some topics organized in alphabetical order and a fin
 Consider this topics and try to create your answers in a way that can easily be understood:
 
 * by anyone involved in the development of the project,
-* at a later time when presenting the project to new team members, new business partners, marketing, players, etc.
+* by new team members, new business partners, marketing, players, etc; at a later time when presenting the project.
 *  when creating or updating your Game Design Document \(GDD\) that synthesizes all relevant information of your game.
 
 ## Goals of this website

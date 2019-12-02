@@ -8,6 +8,14 @@ A leader should be the person whose work focuses on directing the team efforts b
 
 The leader should be able to identify and fill any gaps that appear between the "original vision", the "vision in progress" and "final needed vision" of the game. To do this he should try to regularly hear the feedback from everyone involved with the game \(ex. clients, developers, testers\), and formalize it in discussions to identify needed changes and create work tasks to handle them.
 
+### 1
+
+What if you were to look at your indie game the same way?   
+What if every feature in version 1.0 has to be super-valuable to avoid being labeled “do it later?”   
+What if every job has to be super-critical to success, or you’ll postpone filling the position?   
+What if every item you buy with precious cash has to be a “can’t do without” purchase?   
+What if every major task on your to-do list has to be “mission critical?”
+
 ## Links
 
 {% embed url="https://www.youtube.com/watch?v=L4-KoapvUcs" %}

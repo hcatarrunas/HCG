@@ -13,12 +13,12 @@ If you have a simple game being made solo or by a small team that communicates e
 As the size of a game increases so should also it's GDD become more in depth. This will help to make sure everyone involved with the game will have the same goals and objectives while working in the game.
 
 * It should provide a starting point to explain the game idea to yourself, to a team or to a publisher/partner.
-* It is a central reference point that should provide the information needed by everyone involved with the game, in such a way  as to bring confidence that they knows how their work is contributing to reach the expected final product. 
-* It can be used as an historic reference when doing an analysis of how a ongoing project \(or finished project\), is being developed compared with how it was projected to be developed.
+* It is a central reference point that should provide the information needed by everyone involved with the game, in such a way  as to bring confidence that they know how their work is contributing to reach the expected final product. 
+* It can be used as an historic reference when doing an analysis of how an ongoing project \(or finished project\), is being developed compared with how it was projected initially.
 * It should be prepared in a way that each team member can find the relevant information for them, from:
-  * the idea originators - to explain the game to someone.
-  * the development team - to explain how the game will work.
-  * the art and sound/music team - to explain what the game mood will be.
+  * the idea originators - to explain what the game is about.
+  * the development team - to explain how the game is supposed to be played.
+  * the art and sound/music team - to explain what the game mood is expected to be.
   * the marketing team - to explain how the player will find the game and what their first experience will be.
   * the distribution team - to explain ways the players will be able to acquire the game.
 
@@ -49,9 +49,60 @@ Although a GDD could initially be as simple as a one page word document describi
   * Who are the people responsible for each part of the game? \(Design, Development, Marketing, Partners, etc\)
   * What is the information needed by each 
 
+You could have simple sentences explaining each point, or formalize each point in the format Goal / Objective / Outcome, where: 
+
+* **Goal** - why are we going to do this?
+  * To become a marked leader. 
+* **Objective** - what is expected to be done to achieve the goal?
+  * Sell 10000 units in first 24 hours of release. 
+* **Expected outcomes** - how to track if the goal and objectives are progressing positively. 
+  * Have positive brand recognition reflected in google analytics data.
+
+Find more in [GOAL DESIGN DOCUMENT » Goals, Objectives, Outcomes](goal-design-document/goals-objectives-outcomes.md)
+
+### Section examples
+
+* **Brief description of the game idea**
+  * What inspired it and what makes it stand out in the market. 
+* **Game Goals, Objectives and Outcomes**
+  * For the company
+  * For the players 
+* **Art**
+  * Backgrounds
+  * Characters
+  * Type of animation \(ex. pixel, realistic, stylized\) 
+* **Company**
+  * Branding
+  * Partnerships 
+* **Gameplay**
+  * Mechanics that allow the player to achieve Objectives.
+  * Game mood.
+  * Tasks to do in game. 
+* **Marketing**
+  * Target users
+  * Target platforms 
+* **Development team**
+  * Team members and responsibilities
+  * Time breakdown
+  * Work breakdown 
+* **Sound**
+  * Characters
+  * Environments
+  * Music 
+* **World story:**
+  * Backstory \(current game\)
+  * Backstory \(other related games\)
+  * Game story \(by player\)
+  * Game story \(by npcs/narrator, non interactive elements like video\)
+  * End story \(single, optional by game outcome, multiple endings\)
+
 ## GDD recommended usage
 
+{% embed url="https://www.youtube.com/watch?v=1\_DBsrJGiVY" %}
+
 Usually a GDD is used in one of two ways:
+
+{% embed url="https://github.com/android272/Game-Design-Document-Template/blob/master/Game%20Design%20Document%20Template.md" %}
 
 * **Incremental documentation**
 
@@ -66,15 +117,15 @@ Usually a GDD is used in one of two ways:
   * Feedback is sent to one element of the team that reviews it and chooses if it is to be updated in the GDD.
   * When the GDD is updated the team is informed of the changes, and makes the necessary changes in the game production.
 
-## Links:
+{% embed url="https://www.gamasutra.com/view/feature/3384/the\_anatomy\_of\_a\_design\_document\_.php" %}
 
-{% embed url="https://www.youtube.com/watch?v=1\_DBsrJGiVY" %}
+## Links
 
-{% embed url="https://github.com/android272/Game-Design-Document-Template/blob/master/Game%20Design%20Document%20Template.md" %}
+{% embed url="https://www.youtube.com/watch?v=q96lz725gIw" %}
 
 {% embed url="https://www.gamasutra.com/view/feature/3384/the\_anatomy\_of\_a\_design\_document\_.php" %}
 
-{% embed url="https://www.youtube.com/watch?v=q96lz725gIw" %}
+
 
 
 
