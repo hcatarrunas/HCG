@@ -33,8 +33,8 @@ In this cases you can:
 
   Make a deck of various game mechanics from various genres and try to find combinations that spark inspiration.
 
-* **Cut mechanics from the game** List all the mechanics you are currently using in your game. Try to remove a mechanic and make a game. Ex.:
-  * platformer without jumping? Move the ground to help the player character\).
+* **Change the mechanics of the game** List all the mechanics you are currently using in your game. Try to remove a mechanic and make a game. Ex.:
+  * platformer without jumping? \(Move the ground to help the player character\).
   * Make a deck of the mechanics used and try to find new combinations \(and then create a game with them\). 
 * **List of gaming tropes:**  What are the most common in your game type? How can they be avoided? Haw can you use them to surprise the gamer?
 

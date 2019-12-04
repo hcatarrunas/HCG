@@ -72,8 +72,9 @@
 
 * [Programming guide](technical/untitled.md)
 * [Debugging](technical/debugging.md)
-* [Constraints and opportunities \*](technical/constraints.md)
 * [TIPS](technical/tips.md)
+* [Target platforms](technical/target-platforms.md)
+* [Constraints and opportunities \*](technical/constraints.md)
 
 ## Ui Design Document <a id="planning"></a>
 

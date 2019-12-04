@@ -11,8 +11,8 @@ description: Some points that should be considered when review the company activ
     * age?
     * knoledge?
     * Past interactions?
-* Has the market changed perceptions about the characters?
-  * Are they to infantile? to dull?
+* **Has the market changed perceptions about the characters?**
+  * Are they to infantile? To adult? To intelligent? To stupid?
   * Has a competitor launched something similar that currently occupies the limelight?
 
 ## Franchise
