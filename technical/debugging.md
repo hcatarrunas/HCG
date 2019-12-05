@@ -6,5 +6,7 @@ Tip : To debug your APK on your Desktop on Chrome Windows, follow the instructio
 
 {% embed url="https://gonzalo123.com/2014/08/04/debugging-android-cordovaphonegap-apps-with-chrome" %}
 
+{% embed url="https://geeklearning.io/apache-cordova-and-remote-debugging-on-android/" %}
+
 
 
