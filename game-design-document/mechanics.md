@@ -13,6 +13,20 @@ description: >-
 * Player progress: Experience, Level up, Load, Save 
 * Resource: Buy, Mine, Sell, Upgrade,
 
+## Examples
+
+### Throw objects
+
+{% embed url="https://www.youtube.com/watch?v=LIoC5Ses3lk" caption="https://github.com/hcatarrunas/HCG/blob/master/ConstructFiles/Throw\_object.c3p" %}
+
+
+
+
+
+
+
+
+
 ## Links
 
 {% embed url="https://uxdesign.cc/letting-go-of-the-flows-product-inspiration-from-the-game-industry-2d5ff7426720" %}
