@@ -19,11 +19,9 @@ description: >-
 
 {% embed url="https://www.youtube.com/watch?v=vuh3Y3-fQxo" %}
 
-
-
 ### Throw objects
 
-{% embed url="https://www.youtube.com/watch?v=LIoC5Ses3lk" caption="https://github.com/hcatarrunas/HCG/blob/master/ConstructFiles/Throw\_object.c3p" %}
+{% embed url="https://www.youtube.com/embed/LIoC5Ses3lk" caption="https://github.com/hcatarrunas/HCG/blob/master/ConstructFiles/Throw\_object.c3p" %}
 
 ## Links
 
