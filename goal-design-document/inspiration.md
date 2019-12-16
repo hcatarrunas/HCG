@@ -42,5 +42,7 @@ In this cases you can:
 
 {% embed url="https://www.youtube.com/watch?v=wVpRbYwIO9k" %}
 
+{% embed url="https://medium.com/@theotheralvaro/inspiration-is-an-excuse-practical-tools-for-game-designers-660501f4c7ad" %}
+
 
 
