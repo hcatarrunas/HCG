@@ -10,5 +10,7 @@
 
 {% embed url="https://www.youtube.com/watch?v=gTSMo2TpcWs" %}
 
+{% embed url="https://gesinimo.com/post/120565993432/wot-i-learned-ways-to-make-your-game-look-fun-and" %}
+
 
 
