@@ -47,7 +47,22 @@ Although a GDD could initially be as simple as a one page word document describi
 
 * **Information needs:**
   * Who are the people responsible for each part of the game? \(Design, Development, Marketing, Partners, etc\)
-  * What is the information needed by each 
+  * What is the information needed by each.
+
+## Amount of documentation
+
+* **Incremental documentation**
+
+  * Usually when the game is developed for an external client to the development team. This means every possible change has to be approved by multiple sources.
+  * Could also be used if the team is going to make a new game that is very similar to a game that was create previously. 
+  * The first version of the GDD is agreed upon before the game production starts, and is used to plan/estimate the game development that will be made.
+  * Feedback is collected and at regular intervals is used to create a new GDD version proposal \(by the dev team, client or third party\).
+  * The new version of the GDD is reviewed and if approved, results in programmed changes for the game production.
+
+* **Live documentation \(smaller teams or new kind of product\)**
+  * First version is agreed upon before the game production starts.
+  * Feedback is sent to one element of the team that reviews it and chooses if it is to be updated in the GDD.
+  * When the GDD is updated the team is informed of the changes, and makes the necessary changes in the game production.
 
 You could have simple sentences explaining each point, or formalize each point in the format Goal / Objective / Outcome, where: 
 
@@ -60,7 +75,7 @@ You could have simple sentences explaining each point, or formalize each point i
 
 Find more in [GOAL DESIGN DOCUMENT » Goals, Objectives, Outcomes](goal-design-document/goals-objectives-outcomes.md)
 
-### Section examples
+## Section examples
 
 * **Brief description of the game idea**
   * What inspired it and what makes it stand out in the market. 
@@ -96,7 +111,7 @@ Find more in [GOAL DESIGN DOCUMENT » Goals, Objectives, Outcomes](goal-design-d
   * Game story \(by npcs/narrator, non interactive elements like video\)
   * End story \(single, optional by game outcome, multiple endings\)
 
-## GDD recommended usage
+## Links
 
 {% embed url="https://www.youtube.com/watch?v=1\_DBsrJGiVY" %}
 
@@ -104,22 +119,7 @@ Usually a GDD is used in one of two ways:
 
 {% embed url="https://github.com/android272/Game-Design-Document-Template/blob/master/Game%20Design%20Document%20Template.md" %}
 
-* **Incremental documentation**
-
-  * Usually when the game is developed for an external client to the development team. This means every possible change has to be approved by multiple sources.
-  * Could also be used if the team is going to make a new game that is very similar to a game that was create previously. 
-  * The first version of the GDD is agreed upon before the game production starts, and is used to plan/estimate the game development that will be made.
-  * Feedback is collected and at regular intervals is used to create a new GDD version proposal \(by the dev team, client or third party\).
-  * The new version of the GDD is reviewed and if approved, results in programmed changes for the game production.
-
-* **Live documentation \(smaller teams or new kind of product\)**
-  * First version is agreed upon before the game production starts.
-  * Feedback is sent to one element of the team that reviews it and chooses if it is to be updated in the GDD.
-  * When the GDD is updated the team is informed of the changes, and makes the necessary changes in the game production.
-
 {% embed url="https://www.gamasutra.com/view/feature/3384/the\_anatomy\_of\_a\_design\_document\_.php" %}
-
-## Links
 
 {% embed url="https://www.youtube.com/watch?v=q96lz725gIw" %}
 
