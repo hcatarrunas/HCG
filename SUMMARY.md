@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Welcome \*](README.md)
-* [Game Design Document \(GDD\) \*](game-design-document-gdd.md)
+* [Game Design Documentation \(GDD\) \*](game-design-document-gdd.md)
 
 ## Goal Design Document
 
