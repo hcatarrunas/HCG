@@ -16,19 +16,11 @@ description: >-
 
 ## Examples
 
-### Management of skills Construct 3
+### Skill system - Point pool, upgrade/lock/unlock skills
 
-* Value pool \(Points\)
-* Button controls
-* Graphic animations \(Progress arrows, Skill graphics\)
-
-{% embed url="https://youtu.be/liN25m3wVyA" caption="https://github.com/hcatarrunas/HCG/blob/master/ConstructFiles/Skilltree.c3p" %}
+{% embed url="https://cdn.statically.io/gh/hcatarrunas/HCG/2e0b4a06/ConstructFiles/Skilltree\_compress.mp4" caption="https://github.com/hcatarrunas/HCG/blob/master/ConstructFiles/Skilltree.c3p" %}
 
 {% embed url="https://youtu.be/8x4TMWHHgj0" caption="https://github.com/hcatarrunas/HCG/blob/master/ConstructFiles/turretdefenceHC.c3p" %}
 
 {% embed url="https://youtu.be/Wf5KXRT50uk" caption="https://github.com/hcatarrunas/HCG/blob/master/ConstructFiles/GetColorAtDrawingCanvasPixel.c3p" %}
-
-
-
-
 
