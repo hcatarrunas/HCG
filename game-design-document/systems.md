@@ -16,11 +16,17 @@ description: >-
 
 ## Examples
 
-### Skill system - Point pool, upgrade/lock/unlock skills
+#### ⇩ Skill system - Point pool, upgrade/lock/unlock skills
 
 {% embed url="https://cdn.statically.io/gh/hcatarrunas/HCG/2e0b4a06/ConstructFiles/Skilltree\_compress.mp4" caption="https://github.com/hcatarrunas/HCG/blob/master/ConstructFiles/Skilltree.c3p" %}
 
 {% embed url="https://youtu.be/8x4TMWHHgj0" caption="https://github.com/hcatarrunas/HCG/blob/master/ConstructFiles/turretdefenceHC.c3p" %}
 
 {% embed url="https://youtu.be/Wf5KXRT50uk" caption="https://github.com/hcatarrunas/HCG/blob/master/ConstructFiles/GetColorAtDrawingCanvasPixel.c3p" %}
+
+#### ⇩ Use and control family object for spawner and spawned objects. No object events only family.
+
+{% embed url="https://cdn.statically.io/gh/hcatarrunas/HCG/20af1677/ConstructFiles/FamilySpawnAnyObject.mp4" caption="https://github.com/hcatarrunas/HCG/blob/master/ConstructFiles/FamilySpawnAnyObject.c3p" %}
+
+
 
