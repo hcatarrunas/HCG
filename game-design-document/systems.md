@@ -28,5 +28,7 @@ description: >-
 
 {% embed url="https://cdn.statically.io/gh/hcatarrunas/HCG/20af1677/ConstructFiles/FamilySpawnAnyObject.mp4" caption="https://github.com/hcatarrunas/HCG/blob/master/ConstructFiles/FamilySpawnAnyObject.c3p" %}
 
+#### ⇩ Destroy Boss animation by cleaning canvas
 
+{% embed url="https://cdn.statically.io/gh/hcatarrunas/HCG/d6759f04/ConstructFiles/Boss\_Destroy.mp4" caption="https://github.com/hcatarrunas/HCG/blob/master/ConstructFiles/Boss\_Destroy.c3p" %}
 
