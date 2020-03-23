@@ -23,6 +23,12 @@ description: >-
 
 {% embed url="https://youtu.be/pZf8z\_yHQYc" caption="https://github.com/hcatarrunas/HCG/blob/master/ConstructFiles/player\_floor\_slide.c3p" %}
 
+#### ⇩ Throw sword and recover it
+
+{% embed url="https://cdn.statically.io/gh/hcatarrunas/HCG/2eb944db/ConstructFiles/ThrowSword.mp4" caption="https://github.com/hcatarrunas/HCG/blob/master/ConstructFiles/ThrowSword.c3p" %}
+
+
+
 ## Links
 
 {% embed url="https://uxdesign.cc/letting-go-of-the-flows-product-inspiration-from-the-game-industry-2d5ff7426720" %}
