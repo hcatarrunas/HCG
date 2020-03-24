@@ -27,6 +27,10 @@ description: >-
 
 {% embed url="https://cdn.statically.io/gh/hcatarrunas/HCG/2eb944db/ConstructFiles/ThrowSword.mp4" caption="https://github.com/hcatarrunas/HCG/blob/master/ConstructFiles/ThrowSword.c3p" %}
 
+#### ⇩ When hit do Knockback and stay down a timer
+
+{% embed url="https://cdn.statically.io/gh/hcatarrunas/HCG/4cace3b9/ConstructFiles/KnockbackOnHit.mp4" caption="https://github.com/hcatarrunas/HCG/blob/master/ConstructFiles/KnockbackOnHit.c3p" %}
+
 
 
 ## Links
