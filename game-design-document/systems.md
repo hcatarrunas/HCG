@@ -32,3 +32,5 @@ description: >-
 
 {% embed url="https://cdn.statically.io/gh/hcatarrunas/HCG/d6759f04/ConstructFiles/Boss\_Destroy.mp4" caption="https://github.com/hcatarrunas/HCG/blob/master/ConstructFiles/Boss\_Destroy.c3p" %}
 
+#### ⇩ Create a limited number of X spawns \(chosen from variable\) in an area around a spawner
+
