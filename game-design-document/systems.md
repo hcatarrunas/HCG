@@ -36,5 +36,11 @@ description: >-
 
 {% embed url="https://cdn.statically.io/gh/hcatarrunas/HCG/ba790be5/ConstructFiles/8DirectionsSlideoffWallsAndNpcs.mp4" caption="https://github.com/hcatarrunas/HCG/blob/master/ConstructFiles/8DirectionsSlideoffWallsAndNpcs.c3p" %}
 
+#### ⇩ Spawn objects by variable when player close up to a certain number
+
+{% embed url="https://cdn.statically.io/gh/hcatarrunas/HCG/188a117a/ConstructFiles/SpawnObjectsFromVariables.mp4" caption="https://github.com/hcatarrunas/HCG/blob/master/ConstructFiles/SpawnObjectsFromVariables.c3p" %}
+
+
+
 
 
