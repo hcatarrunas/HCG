@@ -15,6 +15,7 @@
 ## Art Design Document
 
 * [Introduction \*](art-design-document/introduction.md)
+* [Animation](art-design-document/animation.md)
 * [Juice](art-design-document/juice.md)
 * [Mood](art-design-document/mood.md)
 * [Constraints and opportunities](art-design-document/constraints.md)
