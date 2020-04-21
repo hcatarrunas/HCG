@@ -125,6 +125,14 @@ Usually a GDD is used in one of two ways:
 
 {% embed url="https://www.gamasutra.com/view/feature/3384/the\_anatomy\_of\_a\_design\_document\_.php" %}
 
+{% embed url="https://gamedevelopment.tutsplus.com/articles/how-and-why-to-write-a-great-game-design-document--cms-23545" %}
+
+{% embed url="https://www.gamedesigning.org/learn/game-design-document/" %}
+
+{% embed url="http://www.csc.kth.se/utbildning/kth/kurser/DH2640/grip08/HighConceptTemplate-Inl4.pdf" %}
+
+{% embed url="https://www.theseus.fi/bitstream/handle/10024/101088/Haltsonen\_Jukka.pdf" %}
+
 
 
 
