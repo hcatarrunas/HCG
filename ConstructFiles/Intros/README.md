@@ -1,5 +1,5 @@
 # This repo has a video on its readme :p
 
+Intro: Place Logo
+https://user-images.githubusercontent.com/32906971/150142476-9d947f2b-eb61-4521-9e2a-015d184833f1.mp4
 
-https://user-images.githubusercontent.com/58986949/115314310-805b2780-a1a7-11eb-8558-648a367ea231.mp4
-https://github.com/hcatarrunas/HCG/blob/master/ConstructFiles/Intros/Construct_Logo_Place.mp4
