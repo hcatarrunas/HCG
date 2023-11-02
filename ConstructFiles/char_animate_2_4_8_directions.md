@@ -1,0 +1,1 @@
+Animate character in multiple directions
